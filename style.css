@@ -78,3 +78,8 @@ p
   grid-column: 2;
   background-color: rgba(98, 98, 34, .5);
 }
+
+#copy
+{
+  text-align: center;
+}
